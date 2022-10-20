@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I'm Henrique and, I'm currently working as a Software Engineer at [OpenBB](https://openbb.co/) where we are on a mission to make financial research software available to everyone through Open Source.
+- 🌱 Currently learning more about development of ML pipelines using AWS.
+- 📫 Reach me through email or twitter!
+- ⚡ Fun fact: I'm a Jiu-Jitsu black belt.
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjoaquim&count_private=true&show_icons=true&theme=gruvbox)
