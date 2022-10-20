@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 Reach me through email or twitter!
 - ⚡ Fun fact: I'm a Jiu-Jitsu black belt.
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjoaquim&count_private=true&show_icons=true&theme=gruvbox)
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjoaquim&count_private=true&show_icons=true&theme=synthwave)
