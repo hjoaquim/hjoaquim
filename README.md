@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 Currently learning more about development of ML pipelines using AWS.
 -->
 
 
 - 🔭 I'm Henrique, and I'm currently working as a Software Engineer at [OpenBB](https://openbb.co/) where we are on a mission to make financial research software available to everyone through Open Source.
-- 🌱 Currently learning more about development of ML pipelines using AWS.
 - 📫 Reach me through email or twitter!
 - ⚡ Fun fact: I'm a Jiu-Jitsu black belt.
 
